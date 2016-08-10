@@ -27,7 +27,8 @@ project.xcworkspace
 *.iml
 .idea
 .gradle
-local.properties
+android/app/build
+android/.gradle
 
 # node.js
 #
@@ -39,3 +40,4 @@ buck-out/
 \.buckd/
 android/app/libs
 android/keystores/debug.keystore
+
